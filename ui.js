@@ -57,7 +57,6 @@ class UI {
     document.getElementById('repos').innerHTML = output;
   }
 
-
   // Show alert message
   showAlert(message, className) {
     // Clear any remaining alerts
